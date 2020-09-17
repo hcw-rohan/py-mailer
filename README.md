@@ -1,5 +1,6 @@
 # Dependencies
 - dotenv
+```  pip install python-dotenv ```
 
 # Instructions
 - Add a csv in the data direction called members.csv. Make sure it has a column header of 'Email Address'
@@ -12,4 +13,5 @@ EMAIL_PASSWORD=
 MAIL_SERVER=
 PORT=
 FROM=
+EMAIL_SUBJECT=
 ```
